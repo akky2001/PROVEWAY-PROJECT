@@ -1,4 +1,4 @@
-# Payment Project
+# PROVEWAY PRIVATE LIMITED Project
 
 This project demonstrates the implementation of a simple payment gateway using HTML, CSS, and JavaScript.
 
